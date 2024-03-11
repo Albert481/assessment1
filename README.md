@@ -30,3 +30,5 @@ def lambda_handler(event, context):
 ```
 
 4. Invoke the Lambda function by HTTP curl to the API Gateway endpoint associated (curl -X GET https://api-gateway-endpoint-url)
+## Screenshot of Execution Result
+![Execution](./screenshots/Q2result.png)
